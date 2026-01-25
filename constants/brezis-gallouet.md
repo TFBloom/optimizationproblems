@@ -19,7 +19,7 @@ The constant $L$ is the **optimal additive remainder**: the infimum over all $L$
 $$
 L = \max_{\delta \geq 1} \left[ 4\pi\Theta(\delta) - \ln\delta - \ln(1+\ln\delta) \right]
 $$
-where $\Theta(\delta) := \sup\bigl\{|u(0)|^2 : \|{\nabla u}\|_2^2 = 1,\, \|\Delta u\|_2^2 = \delta\bigr\}$.
+where $\Theta(\delta) := \sup\lbrace|u(0)|^2 : \lVert\nabla u\rVert_2^2 = 1,\, \lVert\Delta u\rVert_2^2 = \delta\rbrace$.
 
 Note: $\delta(u) \geq 1$ for all zero-mean $u$ by the Poincaré inequality on $\mathbb T^2$, with equality for single-frequency modes.
 
@@ -27,7 +27,7 @@ Note: $\delta(u) \geq 1$ for all zero-mean $u$ by the Poincaré inequality on $\
 
 | Bound | Reference | Comments |
 |---|---|---|
-| $L \approx 2.15627$ | [BDZ2013] | Numerical evaluation; maximum achieved at $\delta^* \approx 3.92888$ |
+| $L \approx 2.15627$ | [BDZ2013] | Numerical evaluation; maximum achieved at $\delta^{\ast} \approx 3.92888$ |
 
 ## Known lower bounds
 
@@ -42,7 +42,7 @@ Here $\beta = \pi(2\gamma + 2\log 2 + 3\log\pi - 4\log\Gamma(1/4))$ where $\gamm
 - The leading coefficient $\frac{1}{4\pi}$ in front of the logarithmic terms is completely determined; the remaining optimization is entirely in the additive constant $L$.
 - The simpler "one-log" Brezis–Gallouet inequality $\|u\|_\infty^2 \le C\|\nabla u\|_2^2(\ln\delta + K)$ has infimum $C = \frac{1}{4\pi}$, but this infimum is **not attained** with any finite $K$—the log-log correction is necessary.
 - The constant $L$ is expressed in terms of lattice sums over $\mathbb{Z}^2$ and does not have a known closed form.
-- The maximum in the variational definition is unique and achieved at finite $\delta^*$; the corresponding conditional extremal $u_{\mu(\delta^*)}(x)$ is an exact extremal function.
+- The maximum in the variational definition is unique and achieved at finite $\delta^{\ast}$; the corresponding conditional extremal $u_{\mu(\delta^{\ast})}(x)$ is an exact extremal function.
 - Applications include sharp attractor dimension bounds for 2D Navier–Stokes equations on the torus.
 
 ## References
