@@ -31,6 +31,8 @@ We are arbitrarily numbering the constants as $C_1$, $C_2$, etc. based on the or
 | [19](https://teorth.github.io/optimizationproblems/constants/19.html) | The critical exponent for isoperimetric inequality on the Hamming cube | 0.5 | 0.50057 |
 | [20](https://teorth.github.io/optimizationproblems/constants/20.html) | The Crouzeix constant | 2 | $1+\sqrt{2} \approx 2.4142$ |
 | [21](https://teorth.github.io/optimizationproblems/constants/21.html) | The Berry–Esseen constant | 0.4097321837 | 0.4690 |
+| [22a](https://teorth.github.io/optimizationproblems/constants/22a.html) | Moser's convex worm cover constant | 0.232239 | 0.2617993878 |
+| [22b](https://teorth.github.io/optimizationproblems/constants/22b.html) | Lebesgue's universal cover constant (convex case) | 0.832 | 0.8440935944 |
 
 ## Maintainers
 
