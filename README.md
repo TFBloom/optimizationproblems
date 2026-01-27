@@ -6,7 +6,7 @@ A curated collection of optimization constants $C$ in mathematics, often arising
 
 ## Table of Constants
 
-We are arbitrarily numbering the constants as $C\_{1}$, $C\_{2}$, etc., mostly based on the order in which the constants were added to the repository.
+We are arbitrarily numbering the constants as $C\_{1}$, $C\_{2}$, etc., mostly based on the order in which the constants were added to the repository.  Constants that are in a family of similar constants will also be given letter suffixes (e.g. $C\_{1a}$, $C\_{1b}$).
 
 | Number | Description | Best lower bound | Best upper bound |
 | ------ | ----------- | ---------------- | ---------------- |
