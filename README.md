@@ -6,7 +6,7 @@ A curated collection of optimization constants $C$ in mathematics, often arising
 
 ## Table of Constants
 
-We are arbitrarily numbering the constants as $C\_{1}$, $C\_{2}$, etc., mostly based on the order in which the constants were added to the repository.  Constants that are in a family of similar constants will also be given letter suffixes (e.g. $C\_{1a}$, $C\_{1b}$).
+We are arbitrarily numbering the constants as $C_{1}$, $C_{2}$, etc., mostly based on the order in which the constants were added to the repository.  Constants that are in a family of similar constants will also be given letter suffixes (e.g. $C_{1a}$, $C_{1b}$).
 
 | Number | Description | Best lower bound | Best upper bound |
 | ------ | ----------- | ---------------- | ---------------- |
@@ -58,6 +58,7 @@ We are arbitrarily numbering the constants as $C\_{1}$, $C\_{2}$, etc., mostly b
 | [36](https://teorth.github.io/optimizationproblems/constants/36a.html) | Sphere packing density in $\mathbb{R}^4$ | $\pi^2/16 \approx 0.616850$ | 0.644421 |
 | [37](https://teorth.github.io/optimizationproblems/constants/37a.html) | The degree--sensitivity exponent | $\log_{3}(6) \approx 1.63093$ | 2 |
 | [38](https://teorth.github.io/optimizationproblems/constants/38a.html) | Square-lattice self-avoiding walk connective constant | 2.625622 | 2.679193 |
+| [39](https://teorth.github.io/optimizationproblems/constants/39a.html) | Hadwiger covering / illumination number in $\mathbb{R}^3$ | 8 | 14 |
 
 
 ## Recent progress
