@@ -19,7 +19,8 @@ We are arbitrarily numbering the constants as $C_{1}$, $C_{2}$, etc., mostly bas
 | [4b](https://teorth.github.io/optimizationproblems/constants/4b.html) | Furstenberg–Sárközy square-difference constant | 0.733412 | 1 |
 | [5](https://teorth.github.io/optimizationproblems/constants/5a.html) | Sidon set size constant | 0 | 0.97633 |
 | [6](https://teorth.github.io/optimizationproblems/constants/6a.html) | Union-closed sets conjecture constant | 0.38271 | 0.5 |
-| [7](https://teorth.github.io/optimizationproblems/constants/7a.html) | Irrationality measure of $\pi$ | 2 | 7.103205334137 |
+| [7a](https://teorth.github.io/optimizationproblems/constants/7a.html) | Irrationality measure of $\pi$ | 2 | 7.103205334137 |
+| [7b](https://teorth.github.io/optimizationproblems/constants/7b.html) | Irrationality measure of $\Gamma(1/4)$ | 2 | $10^{143}$ |
 | [8](https://teorth.github.io/optimizationproblems/constants/8a.html) | Classical zero-free region constant | 0.755106 | 5.558691 |
 | [9](https://teorth.github.io/optimizationproblems/constants/9a.html) | Shannon capacity of the 7-cycle | 3.2578 | 3.3177 |
 | [10a](https://teorth.github.io/optimizationproblems/constants/10a.html) | The real Grothendieck constant | 1.67696 | 1.782214 |
